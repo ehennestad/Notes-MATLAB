@@ -23,5 +23,5 @@ To see an example of the app, run:
  - Configure a path for saving notes
 
 ## Alternative app view
+Notes are ordered by groups:
 <img src="doc/screenshots/notes_tree_view.png" alt="Notes Viewer App List View" width="800"/>
-Notes are ordered by groups
